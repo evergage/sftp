@@ -10,6 +10,7 @@ platforms:
     driver_config:
       customize:
         memory: 768
+  - name: ubuntu-16.04
 
 suites:
   - name: default
